@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\facultate\Anul 3\Semestrul 1\CSSO\tema6new" -B "D:\facultate\Anul 3\Semestrul 1\CSSO\tema6new\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/facultate/Anul 3/Semestrul 1/CSSO/tema6new/cmake-build-debug

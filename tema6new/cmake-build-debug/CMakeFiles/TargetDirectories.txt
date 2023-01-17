@@ -1,0 +1,3 @@
+D:/facultate/Anul 3/Semestrul 1/CSSO/tema6new/cmake-build-debug/CMakeFiles/tema6new.dir
+D:/facultate/Anul 3/Semestrul 1/CSSO/tema6new/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/facultate/Anul 3/Semestrul 1/CSSO/tema6new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
